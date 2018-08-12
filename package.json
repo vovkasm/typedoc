@@ -45,8 +45,7 @@
     "minimatch": "^3.0.0",
     "progress": "^2.0.0",
     "shelljs": "^0.8.2",
-    "typedoc-default-themes": "^0.5.0",
-    "typescript": "3.0.x"
+    "typedoc-default-themes": "^0.5.0"
   },
   "devDependencies": {
     "@types/mocha": "^5.2.4",
@@ -64,7 +63,11 @@
     "mocha": "^5.2.0",
     "mockery": "^2.1.0",
     "ts-node": "^7.0.0",
+    "typescript": "^3.0.1",
     "tslint": "^5.10.0"
+  },
+  "peerDependencies": {
+    "typescript": "3.0.x"
   },
   "files": [
     "bin",
