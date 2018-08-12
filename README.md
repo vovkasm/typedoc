@@ -7,6 +7,12 @@
 [![Chat on Gitter](https://badges.gitter.im/TypeStrong/typedoc.svg)](https://gitter.im/TypeStrong/typedoc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Greenkeeper Enabled](https://badges.greenkeeper.io/TypeStrong/typedoc.svg)](https://greenkeeper.io/)
 
+## vovkasm's fork
+
+This fork contains following changes from main project:
+
+- [*] Use any versions of typescript (typescript is peer dependency now).
+
 ## Installation
 
 TypeDoc runs on Node.js and is available as an NPM package. You can install TypeDoc
